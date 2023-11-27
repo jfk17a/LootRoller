@@ -1,0 +1,1050 @@
+{
+    "0-4": {
+        "01-06": {
+            "No": "1",
+            "CR": "0-4",
+            "d100": "01-06",
+            "GemRoll": "-",
+            "Gold": "-",
+            "Gems or Art Objects": "-",
+            "ItemRoll ": "-",
+            "MagicItemTable": "-"
+        },
+        "07-16": {
+            "No": "2",
+            "CR": "0-4",
+            "d100": "07-16",
+            "GemRoll": "2d6 (7)",
+            "Gold": "10",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "-",
+            "MagicItemTable": "-"
+        },
+        "17-26": {
+            "No": "3",
+            "CR": "0-4",
+            "d100": "17-26",
+            "GemRoll": "2d4 (5)",
+            "Gold": "25",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "-",
+            "MagicItemTable": "-"
+        },
+        "27-36": {
+            "No": "4",
+            "CR": "0-4",
+            "d100": "27-36",
+            "GemRoll": "2d6 (7)",
+            "Gold": "50",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "-",
+            "MagicItemTable": "-"
+        },
+        "37-44": {
+            "No": "5",
+            "CR": "0-4",
+            "d100": "37-44",
+            "GemRoll": "2d6 (7)",
+            "Gold": "10",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d6",
+            "MagicItemTable": "A"
+        },
+        "45-52": {
+            "No": "6",
+            "CR": "0-4",
+            "d100": "45-52",
+            "GemRoll": "2d4 (5)",
+            "Gold": "25",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d6",
+            "MagicItemTable": "A"
+        },
+        "53-60": {
+            "No": "7",
+            "CR": "0-4",
+            "d100": "53-60",
+            "GemRoll": "2d6 (7)",
+            "Gold": "50",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d6",
+            "MagicItemTable": "A"
+        },
+        "61-65": {
+            "No": "8",
+            "CR": "0-4",
+            "d100": "61-65",
+            "GemRoll": "2d6 (7)",
+            "Gold": "10",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "B"
+        },
+        "66-70": {
+            "No": "9",
+            "CR": "0-4",
+            "d100": "66-70",
+            "GemRoll": "2d4 (5)",
+            "Gold": "25",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "B"
+        },
+        "71-75": {
+            "No": "10",
+            "CR": "0-4",
+            "d100": "71-75",
+            "GemRoll": "2d6 (7)",
+            "Gold": "50",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "B"
+        },
+        "76-78": {
+            "No": "11",
+            "CR": "0-4",
+            "d100": "76-78",
+            "GemRoll": "2d6 (7)",
+            "Gold": "10",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "C"
+        },
+        "79-80": {
+            "No": "12",
+            "CR": "0-4",
+            "d100": "79-80",
+            "GemRoll": "2d4 (5)",
+            "Gold": "25",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "C"
+        },
+        "81-85": {
+            "No": "13",
+            "CR": "0-4",
+            "d100": "81-85",
+            "GemRoll": "2d6 (7)",
+            "Gold": "50",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "C"
+        },
+        "86-92": {
+            "No": "14",
+            "CR": "0-4",
+            "d100": "86-92",
+            "GemRoll": "2d4 (5)",
+            "Gold": "25",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "F"
+        },
+        "93-97": {
+            "No": "15",
+            "CR": "0-4",
+            "d100": "93-97",
+            "GemRoll": "2d6 (7)",
+            "Gold": "50",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "F"
+        },
+        "98-99": {
+            "No": "16",
+            "CR": "0-4",
+            "d100": "98-99",
+            "GemRoll": "2d4 (5)",
+            "Gold": "25",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1",
+            "MagicItemTable": "G"
+        },
+        "0": {
+            "No": "17",
+            "CR": "0-4",
+            "d100": "0",
+            "GemRoll": "2d6 (7)",
+            "Gold": "50",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1",
+            "MagicItemTable": "G"
+        }
+    },
+    "5-10": {
+        "01-04": {
+            "No": "18",
+            "CR": "5-10",
+            "d100": "01-04",
+            "GemRoll": "-",
+            "Gold": "-",
+            "Gems or Art Objects": "-",
+            "ItemRoll ": "-",
+            "MagicItemTable": "-"
+        },
+        "05-10": {
+            "No": "19",
+            "CR": "5-10",
+            "d100": "05-10",
+            "GemRoll": "2d4 (5)",
+            "Gold": "25",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "-",
+            "MagicItemTable": "-"
+        },
+        "11-16": {
+            "No": "20",
+            "CR": "5-10",
+            "d100": "11-16",
+            "GemRoll": "3d6 (10)",
+            "Gold": "50",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "-",
+            "MagicItemTable": "-"
+        },
+        "17-22": {
+            "No": "21",
+            "CR": "5-10",
+            "d100": "17-22",
+            "GemRoll": "3d6 (10)",
+            "Gold": "100",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "-",
+            "MagicItemTable": "-"
+        },
+        "23-28": {
+            "No": "22",
+            "CR": "5-10",
+            "d100": "23-28",
+            "GemRoll": "2d4 (5)",
+            "Gold": "250",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "-",
+            "MagicItemTable": "-"
+        },
+        "29-32": {
+            "No": "23",
+            "CR": "5-10",
+            "d100": "29-32",
+            "GemRoll": "2d4 (5)",
+            "Gold": "25",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d6",
+            "MagicItemTable": "A"
+        },
+        "33-36": {
+            "No": "24",
+            "CR": "5-10",
+            "d100": "33-36",
+            "GemRoll": "3d6 (10)",
+            "Gold": "50",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d6",
+            "MagicItemTable": "A"
+        },
+        "37-40": {
+            "No": "25",
+            "CR": "5-10",
+            "d100": "37-40",
+            "GemRoll": "3d6 (10)",
+            "Gold": "100",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d6",
+            "MagicItemTable": "A"
+        },
+        "41-44": {
+            "No": "26",
+            "CR": "5-10",
+            "d100": "41-44",
+            "GemRoll": "2d4 (5)",
+            "Gold": "250",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d6",
+            "MagicItemTable": "A"
+        },
+        "45-49": {
+            "No": "27",
+            "CR": "5-10",
+            "d100": "45-49",
+            "GemRoll": "2d4 (5)",
+            "Gold": "25",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "B"
+        },
+        "50-54": {
+            "No": "28",
+            "CR": "5-10",
+            "d100": "50-54",
+            "GemRoll": "3d6 (10)",
+            "Gold": "50",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "B"
+        },
+        "55-59": {
+            "No": "29",
+            "CR": "5-10",
+            "d100": "55-59",
+            "GemRoll": "3d6 (10)",
+            "Gold": "100",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "B"
+        },
+        "60-63": {
+            "No": "30",
+            "CR": "5-10",
+            "d100": "60-63",
+            "GemRoll": "2d4 (5)",
+            "Gold": "250",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "B"
+        },
+        "64-66": {
+            "No": "31",
+            "CR": "5-10",
+            "d100": "64-66",
+            "GemRoll": "2d4 (5)",
+            "Gold": "25",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "C"
+        },
+        "67-69": {
+            "No": "32",
+            "CR": "5-10",
+            "d100": "67-69",
+            "GemRoll": "3d6 (10)",
+            "Gold": "50",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "C"
+        },
+        "70-72": {
+            "No": "33",
+            "CR": "5-10",
+            "d100": "70-72",
+            "GemRoll": "3d6 (10)",
+            "Gold": "100",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "C"
+        },
+        "73-74": {
+            "No": "34",
+            "CR": "5-10",
+            "d100": "73-74",
+            "GemRoll": "2d4 (5)",
+            "Gold": "250",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "C"
+        },
+        "75-76": {
+            "No": "35",
+            "CR": "5-10",
+            "d100": "75-76",
+            "GemRoll": "2d4 (5)",
+            "Gold": "25",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1",
+            "MagicItemTable": "D"
+        },
+        "77-78": {
+            "No": "36",
+            "CR": "5-10",
+            "d100": "77-78",
+            "GemRoll": "3d6 (10)",
+            "Gold": "50",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1",
+            "MagicItemTable": "D"
+        },
+        "79": {
+            "No": "37",
+            "CR": "5-10",
+            "d100": "79",
+            "GemRoll": "3d6 (10)",
+            "Gold": "100",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1",
+            "MagicItemTable": "D"
+        },
+        "80": {
+            "No": "38",
+            "CR": "5-10",
+            "d100": "80",
+            "GemRoll": "2d4 (5)",
+            "Gold": "250",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1",
+            "MagicItemTable": "D"
+        },
+        "81-84": {
+            "No": "39",
+            "CR": "5-10",
+            "d100": "81-84",
+            "GemRoll": "2d4 (5)",
+            "Gold": "25",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "F"
+        },
+        "85-88": {
+            "No": "40",
+            "CR": "5-10",
+            "d100": "85-88",
+            "GemRoll": "3d6 (10)",
+            "Gold": "50",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "F"
+        },
+        "89-91": {
+            "No": "41",
+            "CR": "5-10",
+            "d100": "89-91",
+            "GemRoll": "3d6 (10)",
+            "Gold": "100",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "F"
+        },
+        "92-94": {
+            "No": "42",
+            "CR": "5-10",
+            "d100": "92-94",
+            "GemRoll": "2d4 (5)",
+            "Gold": "250",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "F"
+        },
+        "95-96": {
+            "No": "43",
+            "CR": "5-10",
+            "d100": "95-96",
+            "GemRoll": "3d6 (10)",
+            "Gold": "100",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "G"
+        },
+        "97-98": {
+            "No": "44",
+            "CR": "5-10",
+            "d100": "97-98",
+            "GemRoll": "2d4 (5)",
+            "Gold": "250",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "G"
+        },
+        "99": {
+            "No": "45",
+            "CR": "5-10",
+            "d100": "99",
+            "GemRoll": "3d6 (10)",
+            "Gold": "100",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1",
+            "MagicItemTable": "H"
+        },
+        "0": {
+            "No": "46",
+            "CR": "5-10",
+            "d100": "0",
+            "GemRoll": "2d4 (5)",
+            "Gold": "250",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1",
+            "MagicItemTable": "H"
+        }
+    },
+    "11-16": {
+        "01-03": {
+            "No": "47",
+            "CR": "11-16",
+            "d100": "01-03",
+            "GemRoll": "-",
+            "Gold": "-",
+            "Gems or Art Objects": "-",
+            "ItemRoll ": "-",
+            "MagicItemTable": "-"
+        },
+        "04-06": {
+            "No": "48",
+            "CR": "11-16",
+            "d100": "04-06",
+            "GemRoll": "2d4 (5)",
+            "Gold": "250",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "-",
+            "MagicItemTable": "-"
+        },
+        "07-09": {
+            "No": "49",
+            "CR": "11-16",
+            "d100": "07-09",
+            "GemRoll": "2d4 (5)",
+            "Gold": "750",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "-",
+            "MagicItemTable": "-"
+        },
+        "10-12": {
+            "No": "50",
+            "CR": "11-16",
+            "d100": "10-12",
+            "GemRoll": "3d6 (10)",
+            "Gold": "500",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "-",
+            "MagicItemTable": "-"
+        },
+        "13-15": {
+            "No": "51",
+            "CR": "11-16",
+            "d100": "13-15",
+            "GemRoll": "3d6 (10)",
+            "Gold": "1000",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "-",
+            "MagicItemTable": "-"
+        },
+        "16-19": {
+            "No": "52",
+            "CR": "11-16",
+            "d100": "16-19",
+            "GemRoll": "2d4 (5)",
+            "Gold": "250",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d4,1d6",
+            "MagicItemTable": "A,B"
+        },
+        "20-23": {
+            "No": "53",
+            "CR": "11-16",
+            "d100": "20-23",
+            "GemRoll": "2d4 (5)",
+            "Gold": "750",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d4,1d6",
+            "MagicItemTable": "A,B"
+        },
+        "24-26": {
+            "No": "54",
+            "CR": "11-16",
+            "d100": "24-26",
+            "GemRoll": "3d6 (10)",
+            "Gold": "500",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d4,1d6",
+            "MagicItemTable": "A,B"
+        },
+        "27-29": {
+            "No": "55",
+            "CR": "11-16",
+            "d100": "27-29",
+            "GemRoll": "3d6 (10)",
+            "Gold": "1000",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d4,1d6",
+            "MagicItemTable": "A,B"
+        },
+        "30-35": {
+            "No": "56",
+            "CR": "11-16",
+            "d100": "30-35",
+            "GemRoll": "2d4 (5)",
+            "Gold": "250",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d6",
+            "MagicItemTable": "C"
+        },
+        "36-40": {
+            "No": "57",
+            "CR": "11-16",
+            "d100": "36-40",
+            "GemRoll": "2d4 (5)",
+            "Gold": "750",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d6",
+            "MagicItemTable": "C"
+        },
+        "41-45": {
+            "No": "58",
+            "CR": "11-16",
+            "d100": "41-45",
+            "GemRoll": "3d6 (10)",
+            "Gold": "500",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d6",
+            "MagicItemTable": "C"
+        },
+        "46-50": {
+            "No": "59",
+            "CR": "11-16",
+            "d100": "46-50",
+            "GemRoll": "3d6 (10)",
+            "Gold": "1000",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d6",
+            "MagicItemTable": "C"
+        },
+        "51-54": {
+            "No": "60",
+            "CR": "11-16",
+            "d100": "51-54",
+            "GemRoll": "2d4 (5)",
+            "Gold": "250",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "D"
+        },
+        "55-58": {
+            "No": "61",
+            "CR": "11-16",
+            "d100": "55-58",
+            "GemRoll": "2d4 (5)",
+            "Gold": "750",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "D"
+        },
+        "59-62": {
+            "No": "62",
+            "CR": "11-16",
+            "d100": "59-62",
+            "GemRoll": "3d6 (10)",
+            "Gold": "500",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "D"
+        },
+        "63-66": {
+            "No": "63",
+            "CR": "11-16",
+            "d100": "63-66",
+            "GemRoll": "3d6 (10)",
+            "Gold": "1000",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "D"
+        },
+        "67-68": {
+            "No": "64",
+            "CR": "11-16",
+            "d100": "67-68",
+            "GemRoll": "2d4 (5)",
+            "Gold": "250",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1",
+            "MagicItemTable": "E"
+        },
+        "69-70": {
+            "No": "65",
+            "CR": "11-16",
+            "d100": "69-70",
+            "GemRoll": "2d4 (5)",
+            "Gold": "750",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1",
+            "MagicItemTable": "E"
+        },
+        "71-72": {
+            "No": "66",
+            "CR": "11-16",
+            "d100": "71-72",
+            "GemRoll": "3d6 (10)",
+            "Gold": "500",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1",
+            "MagicItemTable": "E"
+        },
+        "73-74": {
+            "No": "67",
+            "CR": "11-16",
+            "d100": "73-74",
+            "GemRoll": "3d6 (10)",
+            "Gold": "1000",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1",
+            "MagicItemTable": "E"
+        },
+        "75-76": {
+            "No": "68",
+            "CR": "11-16",
+            "d100": "75-76",
+            "GemRoll": "2d4 (5)",
+            "Gold": "250",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1,1d4",
+            "MagicItemTable": "F,G"
+        },
+        "77-78": {
+            "No": "69",
+            "CR": "11-16",
+            "d100": "77-78",
+            "GemRoll": "2d4 (5)",
+            "Gold": "750",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1,1d4",
+            "MagicItemTable": "F,G"
+        },
+        "79-80": {
+            "No": "70",
+            "CR": "11-16",
+            "d100": "79-80",
+            "GemRoll": "3d6 (10)",
+            "Gold": "500",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1,1d4",
+            "MagicItemTable": "F,G"
+        },
+        "81-82": {
+            "No": "71",
+            "CR": "11-16",
+            "d100": "81-82",
+            "GemRoll": "3d6 (10)",
+            "Gold": "1000",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1,1d4",
+            "MagicItemTable": "F,G"
+        },
+        "83-85": {
+            "No": "72",
+            "CR": "11-16",
+            "d100": "83-85",
+            "GemRoll": "2d4 (5)",
+            "Gold": "250",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "H"
+        },
+        "86-88": {
+            "No": "73",
+            "CR": "11-16",
+            "d100": "86-88",
+            "GemRoll": "2d4 (5)",
+            "Gold": "750",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "H"
+        },
+        "89-90": {
+            "No": "74",
+            "CR": "11-16",
+            "d100": "89-90",
+            "GemRoll": "3d6 (10)",
+            "Gold": "500",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "H"
+        },
+        "91-92": {
+            "No": "75",
+            "CR": "11-16",
+            "d100": "91-92",
+            "GemRoll": "3d6 (10)",
+            "Gold": "1000",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "H"
+        },
+        "93-94": {
+            "No": "76",
+            "CR": "11-16",
+            "d100": "93-94",
+            "GemRoll": "2d4 (5)",
+            "Gold": "250",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1",
+            "MagicItemTable": "I"
+        },
+        "95-96": {
+            "No": "77",
+            "CR": "11-16",
+            "d100": "95-96",
+            "GemRoll": "2d4 (5)",
+            "Gold": "750",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1",
+            "MagicItemTable": "I"
+        },
+        "97-98": {
+            "No": "78",
+            "CR": "11-16",
+            "d100": "97-98",
+            "GemRoll": "3d6 (10)",
+            "Gold": "500",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1",
+            "MagicItemTable": "I"
+        },
+        "99-00": {
+            "No": "79",
+            "CR": "11-16",
+            "d100": "99-00",
+            "GemRoll": "3d6 (10)",
+            "Gold": "1000",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1",
+            "MagicItemTable": "I"
+        }
+    },
+    "17+": {
+        "01-02": {
+            "No": "80",
+            "CR": "17+",
+            "d100": "01-02",
+            "GemRoll": "-",
+            "Gold": "-",
+            "Gems or Art Objects": "-",
+            "ItemRoll ": "-",
+            "MagicItemTable": "-"
+        },
+        "03-05": {
+            "No": "81",
+            "CR": "17+",
+            "d100": "03-05",
+            "GemRoll": "3d6 (10)",
+            "Gold": "1000",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d8",
+            "MagicItemTable": "C"
+        },
+        "06-08": {
+            "No": "82",
+            "CR": "17+",
+            "d100": "06-08",
+            "GemRoll": "1d10 (5)",
+            "Gold": "2500",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d8",
+            "MagicItemTable": "C"
+        },
+        "09-11": {
+            "No": "83",
+            "CR": "17+",
+            "d100": "09-11",
+            "GemRoll": "1d4 (2)",
+            "Gold": "7500",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d8",
+            "MagicItemTable": "C"
+        },
+        "12-14": {
+            "No": "84",
+            "CR": "17+",
+            "d100": "12-14",
+            "GemRoll": "1d8 (4)",
+            "Gold": "5000",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d8",
+            "MagicItemTable": "C"
+        },
+        "15-22": {
+            "No": "85",
+            "CR": "17+",
+            "d100": "15-22",
+            "GemRoll": "3d6 (10)",
+            "Gold": "1000",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d6",
+            "MagicItemTable": "D"
+        },
+        "23-30": {
+            "No": "86",
+            "CR": "17+",
+            "d100": "23-30",
+            "GemRoll": "1d10 (5)",
+            "Gold": "2500",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d6",
+            "MagicItemTable": "D"
+        },
+        "31-38": {
+            "No": "87",
+            "CR": "17+",
+            "d100": "31-38",
+            "GemRoll": "1d4 (2)",
+            "Gold": "7500",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d6",
+            "MagicItemTable": "D"
+        },
+        "39-46": {
+            "No": "88",
+            "CR": "17+",
+            "d100": "39-46",
+            "GemRoll": "1d8 (4)",
+            "Gold": "5000",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d6",
+            "MagicItemTable": "D"
+        },
+        "47-52": {
+            "No": "89",
+            "CR": "17+",
+            "d100": "47-52",
+            "GemRoll": "3d6 (10)",
+            "Gold": "1000",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d6",
+            "MagicItemTable": "E"
+        },
+        "53-58": {
+            "No": "90",
+            "CR": "17+",
+            "d100": "53-58",
+            "GemRoll": "1d10 (5)",
+            "Gold": "2500",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d6",
+            "MagicItemTable": "E"
+        },
+        "59-63": {
+            "No": "91",
+            "CR": "17+",
+            "d100": "59-63",
+            "GemRoll": "1d4 (2)",
+            "Gold": "7500",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d6",
+            "MagicItemTable": "E"
+        },
+        "64-68": {
+            "No": "92",
+            "CR": "17+",
+            "d100": "64-68",
+            "GemRoll": "1d8 (4)",
+            "Gold": "5000",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d6",
+            "MagicItemTable": "E"
+        },
+        "69": {
+            "No": "93",
+            "CR": "17+",
+            "d100": "69",
+            "GemRoll": "3d6 (10)",
+            "Gold": "1000",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "G"
+        },
+        "70": {
+            "No": "94",
+            "CR": "17+",
+            "d100": "70",
+            "GemRoll": "1d10 (5)",
+            "Gold": "2500",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "G"
+        },
+        "71": {
+            "No": "95",
+            "CR": "17+",
+            "d100": "71",
+            "GemRoll": "1d4 (2)",
+            "Gold": "7500",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "G"
+        },
+        "72": {
+            "No": "96",
+            "CR": "17+",
+            "d100": "72",
+            "GemRoll": "1d8 (4)",
+            "Gold": "5000",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "G"
+        },
+        "73-74": {
+            "No": "97",
+            "CR": "17+",
+            "d100": "73-74",
+            "GemRoll": "3d6 (10)",
+            "Gold": "1000",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "H"
+        },
+        "75-76": {
+            "No": "98",
+            "CR": "17+",
+            "d100": "75-76",
+            "GemRoll": "1d10 (5)",
+            "Gold": "2500",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "H"
+        },
+        "77-78": {
+            "No": "99",
+            "CR": "17+",
+            "d100": "77-78",
+            "GemRoll": "1d4 (2)",
+            "Gold": "7500",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "H"
+        },
+        "79-80": {
+            "No": "100",
+            "CR": "17+",
+            "d100": "79-80",
+            "GemRoll": "1d8 (4)",
+            "Gold": "5000",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "H"
+        },
+        "81-85": {
+            "No": "101",
+            "CR": "17+",
+            "d100": "81-85",
+            "GemRoll": "3d6 (10)",
+            "Gold": "1000",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "I"
+        },
+        "86-90": {
+            "No": "102",
+            "CR": "17+",
+            "d100": "86-90",
+            "GemRoll": "1d10 (5)",
+            "Gold": "2500",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "I"
+        },
+        "91-95": {
+            "No": "103",
+            "CR": "17+",
+            "d100": "91-95",
+            "GemRoll": "1d4 (2)",
+            "Gold": "7500",
+            "Gems or Art Objects": "art objects",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "I"
+        },
+        "96-00": {
+            "No": "104",
+            "CR": "17+",
+            "d100": "96-00",
+            "GemRoll": "1d8 (4)",
+            "Gold": "5000",
+            "Gems or Art Objects": "gems",
+            "ItemRoll ": "1d4",
+            "MagicItemTable": "I"
+        }
+    }
+}
